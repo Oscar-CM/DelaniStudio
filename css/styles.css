@@ -10,9 +10,10 @@
 .center{
   position: absolute;
   top: 300px;
-  left: 60%;
+  left: 50%;
   transform: translate(-50%, -50%);
   color: white;
+  text-align: center;
 
 }
 .center img{
