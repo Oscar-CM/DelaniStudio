@@ -46,4 +46,9 @@
 }
 .headers{
 	text-align: center;
+	margin-top: 40px;
+}
+.headers img{
+	width: 15%;
+	height: 70%;
 }
