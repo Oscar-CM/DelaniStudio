@@ -52,3 +52,12 @@
 	width: 15%;
 	height: 70%;
 }
+.portfolio{
+	text-align: center;
+	margin-top: 40px;
+	display: inline-block;
+}
+.portfolio img{
+	padding: 0%;
+	margin-left: 0px;
+}
