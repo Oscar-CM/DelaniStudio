@@ -63,4 +63,19 @@
 }
 .below{
 	margin-top: 40px;
+	position: relative;
+}
+.contactus{
+	position: absolute;
+	left: 10%;
+	top: 100px;
+}
+input{
+	width: 450px;
+	margin-left: 20px;
+}
+textarea{
+	width: 950px;
+	height: 200px;
+	margin-top: 25px;
 }
