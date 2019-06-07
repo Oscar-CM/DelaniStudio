@@ -35,3 +35,15 @@
 	margin-top: 40px;
 	position: relative;
 }
+ 
+.services{
+	position: absolute;
+	top: 130px;
+	left: 15%;
+	color: white;
+	text-align: center;
+	line-height: 2;
+}
+.headers{
+	text-align: center;
+}
