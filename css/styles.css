@@ -69,13 +69,29 @@
 	position: absolute;
 	left: 10%;
 	top: 100px;
+	color: white;
 }
 input{
 	width: 450px;
 	margin-left: 20px;
+	opacity: 0.4;
+
 }
 textarea{
-	width: 950px;
+	width: 980px;
 	height: 200px;
 	margin-top: 25px;
+	opacity: 0.4;
+}
+.social{
+	margin-top: 40px;
+}
+.social img{
+	height: 50px;
+	width: 50px;
+}
+.ending{
+	margin-top: 35px;
+	text-align: center;
+	font-size: 15px;
 }
