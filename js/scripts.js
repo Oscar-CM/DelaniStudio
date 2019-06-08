@@ -1,3 +1,16 @@
  $(document).ready(function(){
-            $('#design').show();
+            $('#partOne').hide();
+            $('#partTwo').hide();
+            $('partThree').hide();
+
+            $('#design').click(function(){
+            	$('#design').hide();
+            	$('#partOne').show();
+            });
+            $('#partOne').click(function(){
+            	$('#partOne').hide();
+            	$('#design').show();
+            });
+
+
           });
