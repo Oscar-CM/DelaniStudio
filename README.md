@@ -5,7 +5,7 @@
 This project will ensure anyone visiting it learns more about the studio. It has the descriptions of the designs, developments and products. One can be abe to type in their feedback an receive an instant alert that their feedback has been received.
 ## Setup/Installation Requirements
 * Copy the link on the clone
-* use git clone to get the files git clone :https://github.com/Oscar-CM/TriangleTracker.git
+* use git clone to get the files git clone :https://github.com/Oscar-CM/DelaniStudio.git
 * Open the index.html file using any browser in the machine
 * Navigate through the program.
 ## Behaviour Driven Developement
@@ -14,15 +14,17 @@ This project will ensure anyone visiting it learns more about the studio. It has
 
 **When one clicks the designs icon**
 
-* The Icon should disappear and they should receive its description
+* The Icon should disappear and they should receive its description.
 
 **When one clicks the description button**
 
 **When one clicks the products button**
-* The button should dissappear and they should receive the description
+
+* The button should dissappear and they should receive the description.
+
 **On clicking the submit button**
 
-* The submit button, it should alert you the enter you details if they are blank and should return the name and a thankyou note if the details are entered
+* The submit button, it should alert you the enter you details if they are blank and should return the name and a thankyou note if the details are entered.
 
 ## Known bugs
 The icons sizes are affected when one clicks on any of them
