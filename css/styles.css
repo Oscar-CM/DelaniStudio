@@ -75,6 +75,8 @@ input{
 	width: 450px;
 	margin-left: 20px;
 	opacity: 0.4;
+	border-width: 2px;
+	border-color: : white;
 
 }
 textarea{
@@ -82,6 +84,7 @@ textarea{
 	height: 200px;
 	margin-top: 25px;
 	opacity: 0.4;
+	border: white;
 }
 .social{
 	margin-top: 40px;
@@ -107,6 +110,6 @@ textarea{
 	background-color: #f4f4f4;
 	height: 100%;
 	color: white;
-	
+
 
 }
