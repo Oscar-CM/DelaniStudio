@@ -14,13 +14,15 @@ This project will ensure anyone visiting it learns more about the studio. It has
 
 **When one clicks the designs icon**
 
-* The Icon should disappear and they should receive its description.
+* The Icon should disappear and they should receive the descriptionm of designs.
 
 **When one clicks the description button**
 
+* The Icon should disappear and they should receive its description .
+
 **When one clicks the products button**
 
-* The button should dissappear and they should receive the description.
+* The button should dissappear and they should receive the description of the products.
 
 **On clicking the submit button**
 

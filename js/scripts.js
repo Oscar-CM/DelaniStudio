@@ -28,22 +28,9 @@
             	$('#partThree').hide();
             	$('#product').show();
             });
-
-
-
-
           });
+
   $(document).ready(function(){
-  	$(".over") .hover(function(){
-  		$(this).animate({
-  			opacity : '1'
-  		});
-  	},
-  	function(){
-  		$(this).animate({
-  			opacity : '0'
-  		});
-  	});
 
   	$('#submit').click(function(event){
   		var name = $("#nameOne").val();
