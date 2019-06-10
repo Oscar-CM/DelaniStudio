@@ -30,4 +30,33 @@
             });
 
 
+
+
           });
+  $(document).ready(function(){
+  	$(".over") .hover(function(){
+  		$(this).animate({
+  			opacity : '1'
+  		});
+  	},
+  	function(){
+  		$(this).animate({
+  			opacity : '0'
+  		});
+  	});
+
+  	$('#submit').click(function(event){
+  		var name = $("#nameOne").val();
+  		if (name == " ") {
+  			alert ("Please enter your details");
+  			
+  		} 
+  		else{
+  			alert (name + " " + "Thank you for your feedback");
+  			
+  		}
+  		event.preventDefault();
+  	});
+
+  });
+

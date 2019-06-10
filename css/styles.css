@@ -100,3 +100,13 @@ textarea{
 	word-spacing: 2px;
 	text-align: center;
 }
+
+
+.over{
+	position: absolute;
+	background-color: #f4f4f4;
+	height: 100%;
+	color: white;
+	
+
+}
